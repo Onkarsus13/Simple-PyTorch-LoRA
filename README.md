@@ -125,9 +125,8 @@ This project is licensed under the [MIT License](./LICENSE).
 ## 📢 Roadmap
 
 - [ ] Support for LoKR (Low-Kernel Rank) layers
-- [ ] Official integration with `timm` and `torchmetrics`
 - [ ] Additional tutorials and benchmark scripts
 
 ---
 
-> Made with ❤️ by [Your Name](https://github.com/YourUsername)
+> Made with ❤️ by [Onkar Susladkar](https://github.com/Onkarsus13)
